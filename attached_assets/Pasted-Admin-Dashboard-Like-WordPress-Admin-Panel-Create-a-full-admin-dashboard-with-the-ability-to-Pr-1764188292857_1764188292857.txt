@@ -1,0 +1,170 @@
+Admin Dashboard (Like WordPress Admin Panel)
+
+Create a full admin dashboard with the ability to:
+
+Product & Category Management
+
+Add, edit, delete products.
+
+Approve or reject vendor-submitted products.
+
+Manage product categories, subcategories, and attributes.
+
+Bulk upload via CSV/Excel.
+
+Vendor & User Management
+
+Verify or reject seller applications.
+
+Suspend or delete vendor accounts.
+
+Edit user information.
+
+View vendor performance and analytics.
+
+Website Content Management (CMS)
+
+Admin must be able to edit:
+
+Terms & Conditions (rich-text editor)
+
+Privacy Policy
+
+About Us
+
+FAQs
+
+SEO pages and metadata
+
+Email templates (registration, verification, order messages)
+
+Advertising & Ranking Management
+
+Create advertising slots for products or vendors who want higher ranking.
+
+Allow paid promotions (e.g., Featured Product, Top Vendor badge).
+
+Admin controls pricing and placement.
+
+Dashboard analytics for impressions & clicks.
+
+Marketplace Settings
+
+Control commission fees.
+
+Control subscription plans for vendors.
+
+Change logos, theme colors, banners, homepage sliders.
+
+Enable/disable modules (ads, vendor verification, SEO module, etc.)
+
+Security & Logs
+
+View complete activity log.
+
+Manage roles & permissions.
+
+Two-factor authentication option.
+
+🔹 3. Vendor Dashboard (Like Dokan Multi-Vendor Marketplace)
+
+Give each vendor/manufacturer a dashboard similar to Dokan, with the ability to:
+
+Vendor Store Management
+
+Create and customize a vendor storefront.
+
+Upload logo, banner, business description, certificates, and location.
+
+SEO controls for vendor store pages.
+
+Product Management
+
+Add, edit, update their own products.
+
+Manage inventory.
+
+Create product variations.
+
+Submit products for admin approval.
+
+Orders & Analytics
+
+View inquiries from buyers.
+
+Track product performance.
+
+Access analytics: views, clicks, conversions, ranking metrics.
+
+Financial Panel
+
+Subscription payments.
+
+Advertising payments.
+
+Download invoices and statements.
+
+Messaging & Communication
+
+Direct chat or inquiry system with buyers.
+
+Manage negotiations.
+
+Verification Centre
+
+Vendors must upload:
+
+Company documents
+
+Certificates
+
+Identity documents
+Admin then approves or declines.
+
+🔹 4. Buyer Features
+
+Browse products by category.
+
+Request quotations (RFQs).
+
+Contact suppliers.
+
+Save products.
+
+Compare products.
+
+🔹 5. Advertising System
+
+Build a full promotion system:
+
+Homepage banner ads.
+
+Category page top ads.
+
+Featured product slots.
+
+Priority vendor ranking.
+
+Pay-per-click or flat fee billing.
+
+Admin must control pricing, impressions, and visibility.
+
+🔹 6. Search & SEO
+
+Powerful search with filters (price, location, certification, MOQ, supplier type).
+
+Fully SEO-optimized pages with admin-editable fields.
+
+Automatically generated sitemaps.
+
+🔹 7. Tech Requirements
+
+Modern, clean UI components.
+
+Fully responsive (desktop & mobile).
+
+Secure authentication for admin & vendors.
+
+Database models for users, vendors, products, ads, settings, CMS pages.
+
+Full API structure.
